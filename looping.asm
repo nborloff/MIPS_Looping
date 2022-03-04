@@ -1,4 +1,4 @@
-.data
+.data # necessary data
     one: .asciiz "One "
     two: .asciiz "Two "
     three: .asciiz "Three "
